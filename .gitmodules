@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "impala"]
+	path = impala
+	url = https://github.com/sandialabs/rimpala
 [submodule "mvBayes"]
 	path = mvBayes
 	url = https://github.com/sandialabs/mvbayesr
