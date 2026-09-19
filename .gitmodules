@@ -11,3 +11,6 @@
 [submodule "stpphawkes"]
 	path = stpphawkes
 	url = https://github.com/sandialabs/stpphawkes
+[submodule "veesa"]
+	path = veesa
+	url = https://github.com/sandialabs/veesa
